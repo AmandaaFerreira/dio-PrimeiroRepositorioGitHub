@@ -1,0 +1,22 @@
+Instruções Iniciais:
+
+Link para fazer o Donwload do Git: https://git-scm.com/downloads
+Link de comandos úteis: https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+Comandos mais utilizados:
+CD: Utilizado para navegar entre as pastas 
+DIR: Lista os diretórios existentes 
+MKDIR: Criar pasta
+DEL: Deleta somente o arqueivo 
+RMDIR: Deleta o repositório 
+CLEAR: Limpa o terminal
+GIT INIT: inicia o repositório 
+GIT ADD: Adiciona 
+GIT COMMIT: Commitar 
+GIT STATUS: Mostra o estado atual do seu projeto 
+MV: Mover
+*: Tudo
+PUSH: Empurrar 
+PULL: Puxar
+GIT CLONE: Clonar 
+LS-A: Mostra os repositorios ocultos
